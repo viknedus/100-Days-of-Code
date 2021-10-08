@@ -19,4 +19,5 @@ var countBits = function (n) {
 
 ---
 
+### Tags
 `Algorithms` | `bits` | `binary`
