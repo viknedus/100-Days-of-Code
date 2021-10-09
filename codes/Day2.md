@@ -24,7 +24,7 @@ I used `reducer` and `Math.pow()` to find the solution
 
 > Given an array of integers as strings and numbers, return the sum of the array values as if all were numbers.
 >
-> > For example, for [9, 3, 7, 3] it should return 22 because 9 + 3 + 7 + 3 = 22.
+> > For example, for [9, '3', '7', 3] it should return 22 because 9 + 3 + 7 + 3 = 22.
 
 ---
 
