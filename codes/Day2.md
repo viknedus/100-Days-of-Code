@@ -41,4 +41,4 @@ I used `reduce()` and `Number()` to find the solution. `parseInt()` can be used 
 
 ### Tags
 
-`Fundamentals` | `Arithmetic` | `Maths` | `Algorithms`
+`Fundamentals` | `Arithmetic` | `Maths` | `Algorithms` | [Codewars](https://codewars.com)
