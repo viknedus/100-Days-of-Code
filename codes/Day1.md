@@ -19,5 +19,6 @@ var countBits = function (n) {
 
 ---
 
-### Tags
-`Algorithms` | `bits` | `binary`
+## Tags
+
+Algorithms | bits | binary | [Codewars](https://codewars.com)

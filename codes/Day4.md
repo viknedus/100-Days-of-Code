@@ -24,4 +24,4 @@ var reverseList = function (head) {
 
 ## Tags
 
-`Algorithms` | `Arrays` | [Leetcode](https://leetcode.com/problems/reverse-linked-list/)
+Algorithms | Arrays | [Leetcode](https://leetcode.com/problems/reverse-linked-list/)

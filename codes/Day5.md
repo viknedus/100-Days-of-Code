@@ -21,4 +21,4 @@ function mygcd(x,y){
 
 ## Tags
 
-`Algorithms` | `Optimization` | `Recursion` | [Codewars](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd/)
+Algorithms | Optimization | Recursion | [Codewars](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd/)

@@ -23,4 +23,4 @@ I used `filter()` and `reduce()` to achieve this.
 
 ## Tags
 
-`Algorithms` | `Arrays` | `Sorting`
+Algorithms | Arrays | Sorting | [Codewars](https://codewars.com)

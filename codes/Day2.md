@@ -39,6 +39,6 @@ function sumMix(x) {
 I used `reduce()` and `Number()` to find the solution. `parseInt()` can be used as well.
 `Number()` will return a float or (resolved) exponential notation unlike `parseInt()`.
 
-### Tags
+## Tags
 
-`Fundamentals` | `Arithmetic` | `Maths` | `Algorithms` | [Codewars](https://codewars.com)
+Fundamentals | Arithmetic | Maths | Algorithms | [Codewars](https://codewars.com)
