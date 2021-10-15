@@ -11,4 +11,5 @@ Tasks will be added here everyday. Learn, build, grow 🚀
 | Day 5  | Mon 11 Oct, 21 | Algorithm, Recursion, Optimization | [Here](/code/Day5.md)  |
 | Day 6  | Tue 12 Oct, 21 | React State Hook            | [Here](/code/Day6.md)  |
 | Day 7  | Wed 13 Oct, 21 | React Use Effect Hook       | [Here](/code/Day7.md)  |
-| Day 8  | Thus 14 Oct, 21| Coming soon | [Here](/code/Day8.md) |
+| Day 8  | Thus 14 Oct, 21| String entrapulation        | [Here](/code/Day8.md)  |
+| Day 9  | Fri 15 Oct, 21 | Array manipulation, Indexes | [Here](/code/Day9.md)  |
