@@ -28,3 +28,7 @@ console.log("After: " + JSON.stringify(testArr)); // After: [2,3,4,5,6]
 console.log(nextInLine([5, 6, 7, 8, 9], 1)); // 5
 console.log(nextInLine([2], 1)); // 2
 ```
+
+## Tags
+
+Array manipulation | Indexes | [freecodecamp.org](https://freecodecamp.org)
