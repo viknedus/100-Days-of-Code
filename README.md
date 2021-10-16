@@ -14,3 +14,4 @@ Tasks will be added here everyday. Learn, build, grow 🚀
 | Day 8  | Thus 14 Oct, 21 | String entrapulation               | [Here](/code/Day8.md)  |
 | Day 9  | Fri 15 Oct, 21  | Array manipulation, Indexes        | [Here](/code/Day9.md)  |
 | Day 10 | Sat 16 Oct, 21  | Array manipulation                 | [Here](/code/Day10.md) |
+| Day 11 | Sun 17 Oct, 21  | If-else, Operators, Arrays         | [Here](/code/Day11.md) |
