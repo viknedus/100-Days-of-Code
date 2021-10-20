@@ -21,24 +21,83 @@ Your function will be passed `par` and `strokes` arguments. Return the correct s
 ## Code solution
 
 ```javascript
-var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
+var names = [
+  "Hole-in-one!",
+  "Eagle",
+  "Birdie",
+  "Par",
+  "Bogey",
+  "Double Bogey",
+  "Go Home!",
+];
 
 function golfScore(par, strokes) {
   // Only change code below this line
-  if (strokes == 1) { return names[0] }
-  else if (strokes <= (par - 2)){ return names[1] }
-  else if (strokes == (par - 1)){ return names[2] }
-  else if (strokes == par){ return names[3] }
-  else if (strokes == (par + 1)){ return names[4] }
-  else if (strokes == (par + 2)){ return names[5] }
-  else { return names[6] }
+  if (strokes == 1) {
+    return names[0];
+  } else if (strokes <= par - 2) {
+    return names[1];
+  } else if (strokes == par - 1) {
+    return names[2];
+  } else if (strokes == par) {
+    return names[3];
+  } else if (strokes == par + 1) {
+    return names[4];
+  } else if (strokes == par + 2) {
+    return names[5];
+  } else {
+    return names[6];
+  }
   // Only change code above this line
 }
 
-golfScore(5, 4);
+golfScore(5, 4); // output: Birdie
 ```
 
-## Results expected 
+## Solution in Switch-statement
+
+```javascript
+var names = [
+  "Hole-in-one!",
+  "Eagle",
+  "Birdie",
+  "Par",
+  "Bogey",
+  "Double Bogey",
+  "Go Home!",
+];
+
+function golfScore(par, strokes) {
+  // Only change code below this line
+  switch ((par, strokes)) {
+    case strokes == 1:
+      return names[0];
+      break;
+    case strokes <= par - 2:
+      return names[1];
+      break;
+    case strokes == par - 1:
+      return names[2];
+      break;
+    case strokes == par:
+      return names[3];
+      break;
+    case strokes == par + 1:
+      return names[4];
+      break;
+    case strokes == par + 2:
+      return names[5];
+      break;
+    default:
+      return names[6];
+      break;
+  }
+  // Only change code above this line
+}
+```
+
+## Results expected
+
 - `golfScore(4, 1)` should return the string `Hole-in-one!`
 - `golfScore(4, 2)` should return the string `Eagle`
 - `golfScore(5, 2)` should return the string `Eagle`
@@ -52,4 +111,5 @@ golfScore(5, 4);
 - `golfScore(5, 9)` should return the string `Go Home!`
 
 ## Tags
+
 if-else statements | Operators | Arrays | [Freecodecamp](https://freecodecamp.org)
