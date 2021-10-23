@@ -42,7 +42,7 @@ function checkObj(obj, checkProp) {
 - `checkObj({gift: "pony", pet: "kitten", bed: "sleigh"}, "gift")` should return the string `pony`.
 - `checkObj({gift: "pony", pet: "kitten", bed: "sleigh"}, "pet")` should return the string `kitten`.
 - `checkObj({gift: "pony", pet: "kitten", bed: "sleigh"}, "house")` should return the string `Not Found`.
-
+---
 ## 2. Manipulating complex Objects
 
 ### Accessing Nested Objects
@@ -83,3 +83,5 @@ var ourPets = [
 ourPets[0].names[1]; // Fluffy
 ourPets[1].names[0]; // Spot
 ```
+## Tags
+Objects | Fundermentals | Arrays | [Freecodecamp](https://freecodecamp.org)

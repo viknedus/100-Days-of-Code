@@ -18,4 +18,5 @@ Tasks will be added here everyday. Learn, build, grow 🚀
 | Day 12 | Mon 18 Oct, 21  | Switch statement examples                    | [Here](/code/Day12.md) |
 | Day 13 | Tue 19 Oct, 21  | Algorithms, Counting cards, if-else & switch | [Here](/code/Day13.md) |
 | Day 14 | Wed 20 Oct, 21  | Objects, fundermentals                       | [Here](/code/Day14.md) |
-| Day 15 | Thu 21 Oct, 21  | Objects cont...                              | [Here](/code/Day15.md) |
+| Day 15 | Thu 21 Oct, 21  | Objects cont... Record collection.           | [Here](/code/Day15.md) |
+| Day 16 | Fri 22 Oct, 22  | For-loop, Arrays                             | [Here](/code/Day16.md) |
