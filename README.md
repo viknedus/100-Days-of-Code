@@ -20,3 +20,4 @@ Tasks will be added here everyday. Learn, build, grow 🚀
 | Day 14 | Wed 20 Oct, 21  | Objects, fundermentals                       | [Here](/code/Day14.md) |
 | Day 15 | Thu 21 Oct, 21  | Objects cont... Record collection.           | [Here](/code/Day15.md) |
 | Day 16 | Fri 22 Oct, 22  | For-loop, Arrays                             | [Here](/code/Day16.md) |
+| Day 17 | Sat 23 Oct, 23  | Using Recursion instead of loops             | [Here](/code/Day17.md) |

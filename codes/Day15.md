@@ -55,7 +55,9 @@ function updateRecords(records, id, prop, value) {
 
 updateRecords(recordCollection, 5439, "artist", "ABBA");
 ```
+
 ### outputs:
+
 - After `updateRecords(recordCollection, 5439, "artist", "ABBA")`, `artist` should be the string `ABBA`
 - After `updateRecords(recordCollection, 5439, "tracks", "Take a Chance on Me")`, `tracks` should have the string `Take a Chance on Me` as the last element.
 - After `updateRecords(recordCollection, 2548, "artist", "")`, `artist` should not be set
@@ -65,4 +67,5 @@ updateRecords(recordCollection, 5439, "artist", "ABBA");
 - After `updateRecords(recordCollection, 1245, "albumTitle", "Riptide")`, `albumTitle` should be the string `Riptide`
 
 ## Tag
+
 If-else statement | Objects | Operators | Arrays | [Freecodecamp](https://freecodecamp.com)
