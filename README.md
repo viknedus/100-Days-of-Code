@@ -19,5 +19,6 @@ Tasks will be added here everyday. Learn, build, grow 🚀
 | Day 13 | Tue 19 Oct, 21  | Algorithms, Counting cards, if-else & switch | [Here](/code/Day13.md) |
 | Day 14 | Wed 20 Oct, 21  | Objects, fundermentals                       | [Here](/code/Day14.md) |
 | Day 15 | Thu 21 Oct, 21  | Objects cont... Record collection.           | [Here](/code/Day15.md) |
-| Day 16 | Fri 22 Oct, 22  | For-loop, Arrays                             | [Here](/code/Day16.md) |
-| Day 17 | Sat 23 Oct, 23  | Using Recursion instead of loops             | [Here](/code/Day17.md) |
+| Day 16 | Fri 22 Oct, 21  | For-loop, Arrays                             | [Here](/code/Day16.md) |
+| Day 17 | Sat 23 Oct, 21  | Using Recursion instead of loops             | [Here](/code/Day17.md) |
+| Day 18 | Sun 24 Oct, 21  | Creating a countdown using Recursion.   | [Here](/code/Day18.md). |
