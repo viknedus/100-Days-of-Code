@@ -13,3 +13,24 @@ npx create-next-app -e with-tailwindcss my-project
 cd my-project
 ```
 More examples [Here](https://tailwindcss.com/docs/guides/nextjs)
+
+In `pages/index.js` the following code will produce this respectively
+
+```jsx
+export default function Home() {
+  return (
+    <div>
+      <header className="flex w-full p-5 justify-between">
+        <div className="flex space-x-4 items-center">
+          <p>About</p>
+          <p>Store</p>
+        </div>
+        <div className="flex space-x-4 items-center">
+          <p>Gmail</p>
+          <p>Images</p>
+        </div>
+      </header>
+    </div>
+  );
+}
+```
