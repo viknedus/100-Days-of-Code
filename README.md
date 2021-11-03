@@ -23,3 +23,4 @@ Tasks will be added here everyday. Learn, build, grow 🚀
 | Day 17 | Sat 23 Oct, 21  | Using Recursion instead of loops             | [Here](/code/Day17.md)                                        |
 | Day 18 | Sun 24 Oct, 21  | Creating a countdown using Recursion.        | [Here](/code/Day18.md)                                        |
 | Day 19 | Mon 25 Oct, 21  | Simple joke generator app using hooks        | [Here](https://github.com/viknedus/simple-joke-generator-app) |
+| Day 20 | Tue 26 Oct, 21. | Tailwind CSS with Next.js example.  | [Here](/code/Day20.md)  |
