@@ -27,4 +27,4 @@ Tasks will be added here everyday. Learn, build, grow 🚀
 | Day 21 | Wed 27 Oct, 21. | Destructuring Assignment with the Rest Parameter to Reassign Array Elements | [Here](/codes/day21.md)                                       |
 | Day 22 | Thu 28 Oct, 21. | Google Search Project                                                       | [Here](https://g-search-v2.vercel.app)                        |
 | Day 23 | Fri 29 Oct, 21. | Instagram Web App Project                                                   | [Here](https://ig-web-v2.vercel.app)                          |
-| Day 24 | Sat 30 Oct, 21. | Destructuring continued...                                                  | [Here](/codes/Day24.md)                                       |
+| Day 24 | Sat 30 Oct, 21. | Template literals to create complex strings, For-loop, Map(), Array         | [Here](/codes/Day24.md)                                       |
