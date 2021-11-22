@@ -23,8 +23,11 @@ Tasks will be added here everyday. Learn, build, grow 🚀
 | Day 17 | Sat 23 Oct, 21  | Using Recursion instead of loops                                            | [Here](/codes/Day17.md)                                       |
 | Day 18 | Sun 24 Oct, 21  | Creating a countdown using Recursion.                                       | [Here](/codes/Day18.md)                                       |
 | Day 19 | Mon 25 Oct, 21  | Simple joke generator app using hooks                                       | [Here](https://github.com/viknedus/simple-joke-generator-app) |
-| Day 20 | Tue 26 Oct, 21. | Tailwind CSS + Next.js example.                                             | [Here](/codes/Day20.md)                                       |
-| Day 21 | Wed 27 Oct, 21. | Destructuring Assignment with the Rest Parameter to Reassign Array Elements | [Here](/codes/day21.md)                                       |
-| Day 22 | Thu 28 Oct, 21. | Google Search Project                                                       | [Here](https://g-search-v2.vercel.app)                        |
-| Day 23 | Fri 29 Oct, 21. | Instagram Web App Project                                                   | [Here](https://ig-web-v2.vercel.app)                          |
-| Day 24 | Sat 30 Oct, 21. | Template literals to create complex strings, For-loop, Map(), Array         | [Here](/codes/Day24.md)                                       |
+| Day 20 | Tue 26 Oct, 21  | Tailwind CSS + Next.js example.                                             | [Here](/codes/Day20.md)                                       |
+| Day 21 | Wed 27 Oct, 21  | Destructuring Assignment with the Rest Parameter to Reassign Array Elements | [Here](/codes/day21.md)                                       |
+| Day 22 | Thu 28 Oct, 21  | Google Search Project                                                       | [Here](https://g-search-v2.vercel.app)                        |
+| Day 23 | Fri 29 Oct, 21  | Instagram Web App Project                                                   | [Here](https://ig-web-v2.vercel.app)                          |
+| Day 24 | Sat 30 Oct, 21  | Template literals to create complex strings, For-loop, Map(), Array         | [Here](/codes/Day24.md)                                       |
+| Day 25 | Mon 1 Nov, 21   | Regular expression, regex, string manipulation                              | [Here](/codes/Day25.md)                                       |
+| Day 26 | Tue 2 Nov, 21   | two-dimensionaal array to form a table                                      | [Here](/codes/Day26.md)                                       |
+| Day 27 | Wed 3 Nov, 21   | Interate through all, indexOf(), for-loop                                   | [Here](/codes/Day27.md)                                       |
