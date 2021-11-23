@@ -31,3 +31,5 @@ Tasks will be added here everyday. Learn, build, grow 🚀
 | Day 25 | Mon 1 Nov, 21   | Regular expression, regex, string manipulation                              | [Here](/codes/Day25.md)                                       |
 | Day 26 | Tue 2 Nov, 21   | two-dimensionaal array to form a table                                      | [Here](/codes/Day26.md)                                       |
 | Day 27 | Wed 3 Nov, 21   | Interate through all, indexOf(), for-loop                                   | [Here](/codes/Day27.md)                                       |
+| Day 28 | Thu 4 Nov, 21   | For-in loop, interate through Keys of an Object                             | [Here](/codes/Day28.md)                                       |
+| Day 29 | Fri 5 Nov, 21   | Reverse a String                                                            | [Here](/codes/Day29.md)                                       |
