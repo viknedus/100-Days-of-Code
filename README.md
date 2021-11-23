@@ -33,3 +33,5 @@ Tasks will be added here everyday. Learn, build, grow 🚀
 | Day 27 | Wed 3 Nov, 21   | Interate through all, indexOf(), for-loop                                   | [Here](/codes/Day27.md)                                       |
 | Day 28 | Thu 4 Nov, 21   | For-in loop, interate through Keys of an Object                             | [Here](/codes/Day28.md)                                       |
 | Day 29 | Fri 5 Nov, 21   | Reverse a String                                                            | [Here](/codes/Day29.md)                                       |
+| Day 30 | Sat 6 Nov, 21   | Factorialize a number, for-loop, while-loop, recursion                      | [Here](https://replit.com/@viknedus/FactorializeANumber)      |
+| Day 31 | Sun 7 Nov, 21   | Longest String in a sentence, for-loop, sort(), reduce()                    | [Here](https://replit.com/@viknedus/LongestStringInSentence)  |
